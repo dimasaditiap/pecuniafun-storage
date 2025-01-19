@@ -1,6 +1,19 @@
 {
-  "name": "Pecunia Fun",
-  "symbol": "PECUN",
+  "name": "Pecunia Fun Test",
+  "symbol": "PECUNTEST",
   "description": "This token will be great",
-  "image": "https://raw.githubusercontent.com/dimasaditiap/pecuniafun-storage/main/coin-resize.png"
+  "image": "https://raw.githubusercontent.com/dimasaditiap/pecuniafun-storage/main/coin-resize.png",
+  "attributes": [
+    { "trait_type": "Background", "value": "Blue" },
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dimasaditiap/pecuniafun-storage/main/coin-resize.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
