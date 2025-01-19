@@ -4,6 +4,9 @@
   "description": "PecuniaFun is a revolutionary meme coin that combines laughter and profit! With PUN, you're not just trading coins, but also spreading the spirit of humor across the crypto world. Come on, enjoy the excitement of crypto while collecting legendary memes! 🚀💸",
   "image": "https://raw.githubusercontent.com/dimasaditiap/pecuniafun-storage/main/coin-resize.png",
   "external_url": "https://pecuniafun.com",
-  "tags": ["meme", "fun", "crypto"]
+  "attributes": [
+    { "trait_type": "Category", "value": "Meme" },
+    { "trait_type": "Website", "value": "https://pecuniafun.com" }
+  ]
 }
 
